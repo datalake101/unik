@@ -1,4 +1,4 @@
-Package: uink
+Package: unik
 Type: Package
 Title: Prints unique value counts for categorical and continuous columns.
 Version: 0.1.0
